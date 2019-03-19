@@ -6,7 +6,7 @@
 ### "C"
 * [Duck Duck Go](https://duckduckgo.com)
 ### "D"
-* [DYNAMIC TYPE](https://github.com/To-Sa/CSharp/blob/master/NOTES/DYNAMIC TYPE.cs)
+* [DYNAMIC TYPE](https://github.com/To-Sa/CSharp/blob/master/NOTES/DYNAMIC_TYPE.cs)
 ### "E"
 * [ENUM](https://github.com/To-Sa/CSharp/blob/master/NOTES/ENUM.cs)
 ### "F"
