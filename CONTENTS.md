@@ -8,7 +8,7 @@
 ### "D"
 * [Duck Duck Go](https://duckduckgo.com)
 ### "E"
-* [Duck Duck Go](https://duckduckgo.com)
+* [ENUM](https://github.com/To-Sa/CSharp/blob/master/NOTES/ENUM.cs)
 ### "F"
 * [Duck Duck Go](https://duckduckgo.com)
 ### G
