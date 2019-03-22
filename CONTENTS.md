@@ -30,6 +30,7 @@
 * [UNBOXING](https://github.com/To-Sa/CSharp/blob/master/NOTES/UNBOXING.cs)
 ### "V"
 ### "W"
+* [WHILE](https://github.com/To-Sa/CSharp/blob/master/NOTES/WHILE.cs)
 ### "X"
 ### "Y"
 ### "Z"
