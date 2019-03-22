@@ -9,6 +9,7 @@
 * [ENUM](https://github.com/To-Sa/CSharp/blob/master/NOTES/ENUM.cs)
 ### "F"
 * [FOR](https://github.com/To-Sa/CSharp/blob/master/NOTES/FOR.cs)
+* [FOREACH](https://github.com/To-Sa/CSharp/blob/master/NOTES/FOREACH.cs)
 ### "G"
 * [GOTO](https://github.com/To-Sa/CSharp/blob/master/NOTES/GOTO.cs)
 ### "H"
