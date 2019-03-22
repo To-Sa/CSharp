@@ -22,6 +22,7 @@
 ### Q
 ### R
 ### S
+* [SWITCH CASE](https://github.com/To-Sa/CSharp/blob/master/NOTES/SWITCH_CASE.cs)
 ### T
 ### U
 * [UNBOXING](https://github.com/To-Sa/CSharp/blob/master/NOTES/UNBOXING.cs)
