@@ -35,5 +35,5 @@
 * [WHILE](https://github.com/To-Sa/CSharp/blob/master/NOTES/WHILE.cs)
 ### "X"
 ### "Y"
-* [YIELD](https://github.com/To-Sa/CSharp/blob/master/NOTES/YIELD.cs.cs)
+* [YIELD](https://github.com/To-Sa/CSharp/blob/master/NOTES/YIELD.cs)
 ### "Z"
