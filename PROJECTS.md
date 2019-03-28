@@ -18,6 +18,7 @@
 ### "P"
 ### "Q"
 ### "R"
+* [ROCK PAPER SCISSORS](https://github.com/To-Sa/CSharp/blob/master/CODES/ROCK_PAPER_SCISSORS.cs)
 ### "S"
 ### "T"
 ### "U"
