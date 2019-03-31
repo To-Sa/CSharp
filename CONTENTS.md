@@ -16,6 +16,7 @@
 ### "H"
 ### "I"
 * [IF ELSE](https://github.com/To-Sa/CSharp/blob/master/NOTES/IF_ELSE.cs)
+* [IS](https://github.com/To-Sa/CSharp/blob/master/NOTES/IS.cs)
 ### "J"
 ### "K"
 ### "L"
