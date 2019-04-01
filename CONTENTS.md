@@ -24,6 +24,7 @@
 ### "K"
 ### "L"
 ### "M"
+* [MATRIX](https://github.com/To-Sa/CSharp/blob/master/NOTES/MATRIX.cs)
 ### "N"
 * [NULLABLE](https://github.com/To-Sa/CSharp/blob/master/NOTES/NULLABLE.cs)
 ### "O"
