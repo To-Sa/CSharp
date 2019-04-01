@@ -1,4 +1,5 @@
 ### "A"
+* [ARRAY](https://github.com/To-Sa/CSharp/blob/master/NOTES/ARRAY.cs)
 * [AS](https://github.com/To-Sa/CSharp/blob/master/NOTES/AS.cs)
 ### "B"
 * [BOXING](https://github.com/To-Sa/CSharp/blob/master/NOTES/BOXING.cs)
