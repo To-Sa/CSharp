@@ -34,6 +34,7 @@
 ### "R"
 ### "S"
 * [STRING](https://github.com/To-Sa/CSharp/blob/master/NOTES/STRING.cs)
+* [STRING METHODS](https://github.com/To-Sa/CSharp/blob/master/NOTES/STRING_METHODS.cs)
 * [SWITCH CASE](https://github.com/To-Sa/CSharp/blob/master/NOTES/SWITCH_CASE.cs)
 ### "T"
 ### "U"
