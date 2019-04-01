@@ -3,6 +3,7 @@
 ### "B"
 * [BOXING](https://github.com/To-Sa/CSharp/blob/master/NOTES/BOXING.cs)
 ### "C"
+* [CHAR](https://github.com/To-Sa/CSharp/blob/master/NOTES/CHAR.cs)
 * [CONVERSIONS - IMPLICIT, EXPLICIT](https://github.com/To-Sa/CSharp/blob/master/NOTES/CONVERSIONS.cs)
 ### "D"
 * [DO WHILE](https://github.com/To-Sa/CSharp/blob/master/NOTES/DO_WHILE.cs)
