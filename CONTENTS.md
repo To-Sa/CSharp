@@ -32,6 +32,7 @@
 ### "P"
 ### "Q"
 ### "R"
+* [REGULAR EXPRESSIONS](https://github.com/To-Sa/CSharp/blob/master/NOTES/REGULAR_EXPRESSIONS.cs)
 ### "S"
 * [STRING](https://github.com/To-Sa/CSharp/blob/master/NOTES/STRING.cs)
 * [STRING METHODS](https://github.com/To-Sa/CSharp/blob/master/NOTES/STRING_METHODS.cs)
