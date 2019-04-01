@@ -33,6 +33,7 @@
 ### "Q"
 ### "R"
 ### "S"
+* [STRING](https://github.com/To-Sa/CSharp/blob/master/NOTES/STRING.cs)
 * [SWITCH CASE](https://github.com/To-Sa/CSharp/blob/master/NOTES/SWITCH_CASE.cs)
 ### "T"
 ### "U"
