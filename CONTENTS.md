@@ -21,6 +21,7 @@
 * [IF ELSE](https://github.com/To-Sa/CSharp/blob/master/NOTES/IF_ELSE.cs)
 * [IS](https://github.com/To-Sa/CSharp/blob/master/NOTES/IS.cs)
 ### "J"
+* [JAGGED ARRAY](https://github.com/To-Sa/CSharp/blob/master/NOTES/JAGGED_ARRAY.cs)
 ### "K"
 ### "L"
 ### "M"
