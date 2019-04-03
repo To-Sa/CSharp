@@ -31,6 +31,7 @@
 * [NULLABLE](https://github.com/To-Sa/CSharp/blob/master/NOTES/NULLABLE.cs)
 ### "O"
 ### "P"
+* [PARTIAL CLASS](https://github.com/To-Sa/CSharp/blob/master/NOTES/PARTIAL_CLASS.cs)
 ### "Q"
 ### "R"
 * [REGULAR EXPRESSIONS](https://github.com/To-Sa/CSharp/blob/master/NOTES/REGULAR_EXPRESSIONS.cs)
