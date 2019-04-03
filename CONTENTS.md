@@ -20,6 +20,7 @@
 ### "H"
 ### "I"
 * [IF ELSE](https://github.com/To-Sa/CSharp/blob/master/NOTES/IF_ELSE.cs)
+* [INITIALIZE OBJECTS](https://github.com/To-Sa/CSharp/blob/master/NOTES/INITIALIZE_OBJECTS.cs)
 * [IS](https://github.com/To-Sa/CSharp/blob/master/NOTES/IS.cs)
 ### "J"
 * [JAGGED ARRAY](https://github.com/To-Sa/CSharp/blob/master/NOTES/JAGGED_ARRAY.cs)
