@@ -8,6 +8,7 @@
 * [CLASS AND CONSTRUCTOR](https://github.com/To-Sa/CSharp/blob/master/NOTES/CLASS_CONSTRUCTOR.cs)
 * [CONVERSIONS - IMPLICIT, EXPLICIT](https://github.com/To-Sa/CSharp/blob/master/NOTES/CONVERSIONS.cs)
 ### "D"
+* [DESTRUCTOR](https://github.com/To-Sa/CSharp/blob/master/NOTES/DESTRUCTOR.cs)
 * [DO WHILE](https://github.com/To-Sa/CSharp/blob/master/NOTES/DO_WHILE.cs)
 * [DYNAMIC TYPE](https://github.com/To-Sa/CSharp/blob/master/NOTES/DYNAMIC_TYPE.cs)
 ### "E"
