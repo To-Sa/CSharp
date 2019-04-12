@@ -20,6 +20,7 @@
 * [GOTO](https://github.com/To-Sa/CSharp/blob/master/NOTES/GOTO.cs)
 ### "H"
 ### "I"
+* [IDISPOSABLE](https://github.com/To-Sa/CSharp/blob/master/NOTES/IDISPOSABLE.cs)
 * [IF ELSE](https://github.com/To-Sa/CSharp/blob/master/NOTES/IF_ELSE.cs)
 * [INITIALIZE OBJECTS](https://github.com/To-Sa/CSharp/blob/master/NOTES/INITIALIZE_OBJECTS.cs)
 * [IS](https://github.com/To-Sa/CSharp/blob/master/NOTES/IS.cs)
