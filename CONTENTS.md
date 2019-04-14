@@ -36,6 +36,7 @@
 * [NULLABLE](https://github.com/To-Sa/CSharp/blob/master/NOTES/NULLABLE.cs)
 ### "O"
 ### "P"
+* [PARAMETERS - REF, OUT, PARAMS](https://github.com/To-Sa/CSharp/blob/master/NOTES/PARAMETER.cs)
 * [PARTIAL CLASS](https://github.com/To-Sa/CSharp/blob/master/NOTES/PARTIAL_CLASS.cs)
 ### "Q"
 ### "R"
