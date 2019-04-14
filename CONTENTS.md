@@ -42,6 +42,7 @@
 ### "Q"
 ### "R"
 * [REGULAR EXPRESSIONS](https://github.com/To-Sa/CSharp/blob/master/NOTES/REGULAR_EXPRESSIONS.cs)
+* [RETURN VALUE](https://github.com/To-Sa/CSharp/blob/master/NOTES/RETURN_VALUE.cs)
 ### "S"
 * [STRING](https://github.com/To-Sa/CSharp/blob/master/NOTES/STRING.cs)
 * [STRING METHODS](https://github.com/To-Sa/CSharp/blob/master/NOTES/STRING_METHODS.cs)
