@@ -13,6 +13,7 @@
 * [DYNAMIC TYPE](https://github.com/To-Sa/CSharp/blob/master/NOTES/DYNAMIC_TYPE.cs)
 ### "E"
 * [ENUM](https://github.com/To-Sa/CSharp/blob/master/NOTES/ENUM.cs)
+* [EXTENSION METHOD](https://github.com/To-Sa/CSharp/blob/master/NOTES/EXTENSION_METHOD.cs)
 ### "F"
 * [FOR](https://github.com/To-Sa/CSharp/blob/master/NOTES/FOR.cs)
 * [FOREACH](https://github.com/To-Sa/CSharp/blob/master/NOTES/FOREACH.cs)
