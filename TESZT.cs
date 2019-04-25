@@ -133,5 +133,65 @@ namespace ACCESS_EXCEL
             
 
         }
+        
+        
+        
+        
+        void Diff()
+        {
+            string oldExcel = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\OLD.xlsx";
+            string newExcel = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\NEW.xlsx";
+            DataTable oldExcelTable = new DataTable();
+            DataTable newExcelTable = new DataTable();
+
+            using (OleDbConnection oldConnect = new OleDbConnection(@"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" + oldExcel + @"; Extended Properties='Excel 12.0;HDR=YES'"))
+            {
+                OleDbCommand cmd = new OleDbCommand("SELECT * FROM [Munka1$]", oldConnect);
+                oldConnect.Open();
+                OleDbDataAdapter dataAdapter = new OleDbDataAdapter(cmd);
+                dataAdapter.Fill(oldExcelTable);
+            }
+
+            using (OleDbConnection newConnect = new OleDbConnection(@"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" + newExcel + @"; Extended Properties='Excel 12.0;HDR=YES'"))
+            {
+                OleDbCommand cmd = new OleDbCommand("SELECT * FROM [Munka1$]", newConnect);
+                newConnect.Open();
+                OleDbDataAdapter dataAdapter = new OleDbDataAdapter(cmd);
+                dataAdapter.Fill(newExcelTable);
+            }
+
+            //var diff
+
+            /*var diff = oldExcelTable.AsEnumerable().Where(r => !newExcelTable.AsEnumerable().Any(
+                                                        r2 => r[oldExcelTable.Columns[1].ColumnName].ToString().Trim().ToLower() == r2[newExcelTable.Columns[1].ColumnName].ToString().Trim().ToLower() 
+                                                            && r["OSZLOP2"].ToString().Trim().ToLower() == r2["OSZLOP2"].ToString().Trim().ToLower()
+                                                            && r["OSZLOP3"].ToString().Trim().ToLower() == r2["OSZLOP3"].ToString().Trim().ToLower()
+                                                            && r["OSZLOP4"].ToString().Trim().ToLower() == r2["OSZLOP4"].ToString().Trim().ToLower()
+                                                            //...                   
+                                                            //...                     
+                                                            //...                     
+                                                            && r["OSZLOP30"].ToString().Trim().ToLower() == r2["OSZLOP30"].ToString().Trim().ToLower()
+                                                            ));*/
+            
+            for (int i = 0; i < newExcelTable.Columns.Count; i++)
+            {
+                var diff = newExcelTable.AsEnumerable().Where
+                    (r => !oldExcelTable.AsEnumerable().Any(
+                            r2 => r[oldExcelTable.Columns[i].ColumnName].ToString().Trim().ToLower() == r2[newExcelTable.Columns[i].ColumnName].ToString().Trim().ToLower()
+                    ));
+
+                DataTable resultTable = diff.CopyToDataTable();
+                dataGridView1.DataSource = resultTable;
+            }
+            
+            
+
+        }
+        
+        
+        
     }
 }
+
+
+
