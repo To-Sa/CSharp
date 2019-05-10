@@ -51,6 +51,7 @@
 * [STRINGBUILDER](https://github.com/To-Sa/CSharp/blob/master/NOTES/STRINGBUILDER.cs)
 * [SWITCH CASE](https://github.com/To-Sa/CSharp/blob/master/NOTES/SWITCH_CASE.cs)
 ### "T"
+* [THE TASK ASYNCHRONOUS PROGRAMMING MODEL](https://github.com/To-Sa/CSharp/blob/master/NOTES/TAP.cs)
 ### "U"
 * [UNBOXING](https://github.com/To-Sa/CSharp/blob/master/NOTES/UNBOXING.cs)
 ### "V"
